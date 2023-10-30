@@ -1,4 +1,4 @@
-# Feras Machta Personal Portfolio
+# Feras Machta Personal Website
 
 This project is a personal portfolio showcasing Feras Machta's personal details, hobbies, favorite foods, and animals.
 
